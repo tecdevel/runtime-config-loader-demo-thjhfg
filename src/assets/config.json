@@ -1,0 +1,27 @@
+{
+  "Auth_API_URL":  "http://54.202.46.220:8083",
+  "User_API_URL":  "http://54.202.46.220:8083/api/v2",
+  "Email_API_URL":  "http://54.202.46.220:8081",
+  "Email_Template_API_URL":  "http://54.202.46.220:8084",
+  "VirtualToken_API_URL":  "http://54.202.46.220:8093/v2/",
+  "Profile_API_URL":  "http://54.202.46.220:8088/v2",
+  "Storage_API_URL":  "http://54.202.46.220:8091",
+  "Request_API_URL":  "http://54.202.46.220:8090",
+  "Notification_API_URL":  "http://54.202.46.220:8086",
+  "Notification_WS_URL":  "ws://54.202.46.220:9070",
+  "Payment_API_URL":  "http://54.202.46.220:8098/v2/",
+  "Group_API_URL":  "http://54.202.46.220:8082/api/v1",
+  "Sponsorship_API_URL":  "http://54.202.46.220:8067/api/v1",
+  "Project_API_URL":  "http://54.202.46.220:8085/v1", 
+  "Project_WS_URL":  "ws://54.202.46.220:9072",
+  "Comment_WS_URL":  "ws://54.202.46.220:9074",
+  "Comment_API_URL":  "http://54.202.46.220:8075/v1",
+  "Contest_API_URL":  "http://54.202.46.220:8072/api/v1/",
+  "Survey_API_URL":  "http://54.202.46.220:8073/api/v1/",
+  "RatingReview_API_URL":  "http://54.202.46.220:8066/api/v1/",
+  "Portfolio_API_URL":  "http://54.202.46.220:8076/v1/",
+  "LOGGER_API_URL":  "http://54.201.133.90:8080",
+  "FileManager_API": {
+    "ACTION_URL_BASE":"http://54.202.46.220:8091/v2/advanced/storage/"
+  }
+}
